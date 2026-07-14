@@ -242,10 +242,10 @@ Overall, today's learning has given me confidence to work with arrays and has pr
 
 #  Progress
 
-- ✅ Python Fundamentals
-- ✅ Data Structures
-- ✅ NumPy Basics
-- ✅ NumPy Intermediate Concepts
+-  Python Fundamentals
+-  Data Structures
+-  NumPy Basics
+-  NumPy Intermediate Concepts
 
 **Overall Progress in NumPy:** **~80% Completed**
 
