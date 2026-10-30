@@ -18,8 +18,8 @@ The purpose of this repository is to track my progress, strengthen my understand
 |------------|---------|
 | **Training Duration** | 30 Days |
 | **Training Start Date** | **22 June 2026** |
-| **Expected Completion Date** | **21 July 2026** |
-| **Current Progress** | 25 / 30 Days Completed |
+| **Completion Date** | **30 July 2026** |
+| **Current Progress** | 30 Days Completed |
 | **Training Mode** | Company Training |
 | **Primary Language** | Python |
 
